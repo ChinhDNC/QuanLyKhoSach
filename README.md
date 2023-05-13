@@ -4,6 +4,10 @@
 
 ## Thành Viên
 
-Đỗ Nam Công Chính, Đinh Ngọc Ân, Nguyễn Đức Trí
+Đỗ Nam Công Chính
+
+Đinh Ngọc Ân
+
+Nguyễn Đức Trí
 
 ## Demo giao diện
