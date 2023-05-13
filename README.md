@@ -1,37 +1,9 @@
-# Foobar
+# Đồ án môn Lập trình hướng đối tượng
 
-Foobar is a Python library for dealing with word pluralization.
+Đề tài: Quản lý kho sách.
 
-## Installation
+## Thành Viên
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Đỗ Nam Công Chính, Đinh Ngọc Ân, Nguyễn Đức Trí
 
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Demo giao diện
